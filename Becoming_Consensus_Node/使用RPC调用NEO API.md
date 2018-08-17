@@ -47,7 +47,7 @@
 
 3. 创建新RPC请求，把请求类型改为POST
 
-   ![img](img/postman1.png)
+   ![img](img/Postman1.png)
 
    输入请求URL
 
