@@ -1,4 +1,5 @@
-#Accessing NEO API with RPC
+# Accessing NEO API with RPC
+*[本文档中文版](Using%20RPC%20to%20Call%20NEO%20API.md)*
 
 When running a NEO node with NEO CLI, it provides an API interface for obtaining blockchain data from the node, making it easy to develop blockchain applications. The interface is provided via [JSON-RPC](http://wiki.geekdream.com/Specification/json-rpc_2.0.html), and the underlying protocol uses HTTP/HTTPS for communication. This guide will go through how to send an API call using Postman. 
 
