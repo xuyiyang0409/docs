@@ -44,7 +44,7 @@ When running a NEO node with NEO CLI, it provides an API interface for obtaining
 
 3. Create a new request, set the request type to `POST`
 
-   ![img](img/postman1.png)
+   ![img](img/Postman1.png)
 
    Enter the request URL
 
