@@ -45,7 +45,7 @@ Anyone who applies for becoming a consensus node candidate is advised to provide
 
 ### 2.1 E-mail Application
 
-An application containing information listed in [1.2](How%20To%20Become%20A%20Consensus%20Node.md#1.2 Other Criteria) can be emailed to: 
+An application containing information listed in [1.2](#12-other-criteria) can be emailed to: 
 
 linpengtao@neo.org
 
