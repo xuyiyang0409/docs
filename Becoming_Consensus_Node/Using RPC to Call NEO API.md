@@ -24,10 +24,10 @@ When running a NEO node with NEO CLI, it provides an API interface for obtaining
 
    Reference the table below for the value of`"Port"` 
 
-|                | Main Net | Test Net |
-| -------------- | -------- | -------- |
-| JSON-RPC HTTPS | 10331    | 20331    |
-| JSON-RPC HTTP  | 10332    | 20332    |
+   |                | Main Net | Test Net |
+   | -------------- | -------- | -------- |
+   | JSON-RPC HTTPS | 10331    | 20331    |
+   | JSON-RPC HTTP  | 10332    | 20332    |
 
    *Table 1*
 
