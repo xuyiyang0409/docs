@@ -45,7 +45,7 @@ Anyone who applies for becoming a consensus node candidate is advised to provide
 
 ### 2.1 E-mail Application
 
-An application containing information listed in [1.2](#1.2 Other Criteria) can be emailed to: 
+An application containing information listed in [1.2](How%20To%20Become%20A%20Consensus%20Node.md#1.2 Other Criteria) can be emailed to: 
 
 linpengtao@neo.org
 
@@ -83,7 +83,7 @@ Once the application is successful, you can use the NEO GUI to register as a can
 
    ![img](img/candidate-EN.png)
 
-4. If the message of a transaction ID is displayed, then the transaction is constructed successfully. You can check if the candidate has been successfully registered by accessing the API. (See [Section 6](#6. Checking Candidates and Votes using API ))
+4. If the message of a transaction ID is displayed, then the transaction is constructed successfully. You can check if the candidate has been successfully registered by accessing the API. (See [Section 6](How%20To%20Become%20A%20Consensus%20Node.md#6. Checking Candidates and Votes using API ))
 
 ## 5.Voting for Candidates
 
@@ -111,7 +111,7 @@ After voting, the NEO network calculates in real time based on the number of can
    ![img](img/votemulti-EN.png)
    *Example: giving three candidates each 100000000 votes.*
 
-4. If the message of a transaction ID is displayed, then you have voted successfully. Youc an check the number of votes for each candidate by accessing the API. (See [Section 6](#6. Checking Candidates and Votes using API ))
+4. If the message of a transaction ID is displayed, then you have voted successfully. Youc an check the number of votes for each candidate by accessing the API. (See [Section 6](How%20To%20Become%20A%20Consensus%20Node.md#6. Checking Candidates and Votes using API ))
 
 ## 6. Checking Candidates and Votes using API
 
