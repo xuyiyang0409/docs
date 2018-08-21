@@ -1,4 +1,5 @@
 # How To Become A Consensus Node
+*[中文版](如何成为共识节点.md)*
 
 ## Current Consensus Nodes
 
