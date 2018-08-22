@@ -1,6 +1,23 @@
 # How To Become A Consensus Node
 *[中文版](如何成为共识节点.md)*
 
+#### Table Of Contents
+  * [Current Consensus Nodes](#current-consensus-nodes)
+  * [1. Application](#1-application)
+    + [1.1 Application Criteria](#11-application-criteria)
+    + [1.2 Application Methods](#12-application-methods)
+  * [2. Test-net Consensus Node](#2-test-net-consensus-node)
+    + [2.1 Becoming a Candidate](#21-becoming-a-candidate)
+    + [2.2 Maintaining the Consensus Node](#22-maintaining-the-consensus-node)
+  * [3. Main-net Consensus Node](#3-main-net-consensus-node)
+    + [3.1 Becoming A Candidate](#31-becoming-a-candidate)
+    + [3.2 Voting](#32-voting)
+      - [3.2.0 The Voting Mechanism\*](#320-the-voting-mechanism--)
+      - [3.2.1 Voting NEO GUI](#321-voting-neo-gui)
+      - [3.3 Gather Votes & Support](#33-gather-votes---support)
+  * [Appendix 1. Checking Candidates and Votes using API](#appendix-1-checking-candidates-and-votes-using-api)
+  * [Appendix 2. Add Candidate Info to Consensus Node Page](#appendix-2-add-candidate-info-to-consensus-node-page)
+
 ## Current Consensus Nodes
 
 3 of them are being maintained by NEO Foundation, 1 by Neo Global Development, 3 by CityOfZion.
