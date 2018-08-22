@@ -147,7 +147,7 @@ Any nodes holding NEO can vote using the GUI. Candidates can vote for their own 
 
 4. If the message of a transaction ID is displayed, then you have voted successfully. Youc an check the number of votes for each candidate by accessing the API. (See [Appendix 1](#appendix-1-checking-candidates-and-votes-using-api))
 
-#### 3.3 Gather Votes & Support
+### 3.3 Gather Votes & Support
 
 NEO Foundation will vote for candidates who have completed sections [1](#1-application) and [2](#2test-net-consensus-node). All candidates are also able to gather votes from other NEO holders. 
 
