@@ -3,26 +3,26 @@
 
 ## Current Consensus Nodes
 
-The NEO main-net currently has 7 consensus nodes. 6 of them are being maintained by NEO Foundation, while 1 is maintained by CityOfZion. 
+3 of them are being maintained by NEO Foundation, 1 by Neo Global Development, 3 by CityOfZion.
 
-The NEO test-net currently has 7 consensus nodes. 3 of them are being maintained by NEO Foundation, 1 by Neo Global Development, 3 by CityOfZion.
+The NEO main-net currently has 7 consensus nodes. 
 
-NEO plans to expand the number of consensus nodes maintained by the community. This guide will cover the requirements and process of becoming a consensus node.
+- NEO Foundation maintains 6 of the nodes. 
+- CityOfZion maintains 1. 
 
-## 1. Requirements
+The NEO test-net currently has 7 consensus nodes. 
 
-### 1.1 Hardware Requirements
+- NEO Foundation maintians 3 of the nodes
+- NEO Global Development maintains 1. 
+- CityOfZion maintains 3. 
 
-Recommended Minimum Hardware Specifications for a machine running NEO consensus node:
+## 1. Application
 
-- 4 Core CPU
-- 8 GB RAM
-- 10M Bandwidth
-- 100G Hard Drive
+> Please Note: the application process is not a mechanism of the NEO blockchain. Any node can spend gas to become a candidate node[(See 3. Main-net Consensus Node)](#3-main-net-consensus-node) without the application, and be voted by any NEO holders of the community. Those who do successfully apply will also receive votes from the NEO Foundation. 
 
-### 1.2 Other Criteria
+### 1.1 Application Criteria
 
-Anyone who applies for becoming a consensus node candidate is advised to provide some, or all of the information listed below. 
+*Anyone who applies for becoming a consensus node candidate is advised to provide some, or all of the information listed below.*
 
 - Applicant/Organization Information
 
@@ -48,37 +48,31 @@ Anyone who applies for becoming a consensus node candidate is advised to provide
 
 - Test-net consensus node name *(if applicable)*
 
-> *An application will be evaluated on the criteria above.*
+**Recommended Minimum Hardware Specifications:**
 
-## 2. Application
+- 4 Core CPU
+- 8 GB RAM
+- 10M Bandwidth
+- 100G Hard Drive
 
-### 2.1 E-mail Application
+### 1.2 Application Methods
 
-An application containing information listed in [1.2](#12-other-criteria) can be emailed to: 
+#### E-mail Application
+
+An application containing information listed in [1.1](#11-application-criteria) can be emailed to: 
 
 foundation@neo.org
 
-### 2.2 Website Application
+#### Website Application
 
 > *The 'Apply to be Consensus Node Candidate' feature will be available on the [neo.org](neo.org) website soon.*
 
-### 2.3 Application Feedback/Results
-
-The applicant or organization will be informed of the result by email. 
-
-If the application is not successful, it can always be re-submitted with improved specifications and solutions. 
-
-## 3. Test-net Consensus Node
+## 2. Test-net Consensus Node
 
 If the application is successful, the applicant will start by running a consensus node on the Test-net. 
+To become a consensus node on Test-net, they need to first become a candidate. 
 
-If problem arises with the consensus node during this period, active communication and troubleshooting is expected. NGD will provide technical support if these situations arise. 
-
-After 6 months of running the test-net, the applicant will be qualified to become a candidate for a consensus node on the main-net. 
-
-> *If the applicant can prove that they have maintained NEO main-net nodes reliably for over 6 months, (eg. If the applicant/organization has maintained an exchange that supports NEO) this process can be skipped.*
-
-## 4. Becoming a Candidate
+### 2.1 Becoming a Candidate
 
 > *The GUI operations of becoming a candidate and voting (Sections 4 and 5) are the same on both Test-net and Main-net. The difference is determined by which chain the GUI is synced to. To switch between test-net and main-net on GUI, see [this document](http://docs.neo.org/en-us/network/testnet.html).* 
 
@@ -90,13 +84,25 @@ Once the application is successful, you can use the NEO GUI to register as a can
 
 3. Select the public key of the account in the list and click `OK`. Note that 1000 GAS will be charged at this step.
 
-   ![img](img/candidate-EN.png)
+   <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/candidate-EN.png" width="725">
 
-4. If the message of a transaction ID is displayed, then the transaction is constructed successfully. You can check if the candidate has been successfully registered by accessing the API. (See [Section 6](#6-checking-candidates-and-votes-using-api))
+4. If the message of a transaction ID is displayed, then the transaction is constructed successfully. You can check if the candidate has been successfully registered by accessing the API. (See [Appendix 1](#appendix-1-checking-candidates-and-votes-using-api))
 
-## 5.Voting
+### 2.2 Maintaining the Consensus Node
 
-### 5.0 The Voting Mechanism\*
+Once the node has become a candidate, NEO Foundation will vote for the node so that it becomes a consensus node on test-net. 
+If problem arises with the consensus node during this period, active communication and troubleshooting is expected. NGD will provide technical support if these situations arise. 
+After 6 months of running the test-net, the applicant will be qualified to become a candidate for a consensus node on the main-net. 
+
+## 3. Main-net Consensus Node
+
+### 3.1 Becoming A Candidate
+
+Use a GUI to connect to the main-net. Repeat steps in [2.1](#21-becoming-a-candidate)
+
+### 3.2 Voting
+
+#### 3.2.0 The Voting Mechanism\*
 
 *\*: NEO3.0 will make adjustments to the voting mechanism. This section will be updated accordingly when 3.0 launches.*
 
@@ -109,9 +115,9 @@ After voting, the NEO network calculates in real time based on the number of can
 3. Calculate the weighted average of the remaining 50% data, which is then determined as the current NEO consensus node number N
 4. The top N candidates with the highest number of votes become consensus nodes
 
-### 5.1 Voting: NEO Holders
+#### 3.2.1 Voting NEO GUI
 
-Any nodes holding NEO can vote using the GUI. 
+Any nodes holding NEO can vote using the GUI. Candidates can vote for their own nodes. 
 
 1. In NEO-GUI, open the wallet account to vote. 
 
@@ -119,32 +125,27 @@ Any nodes holding NEO can vote using the GUI.
 
 3. In the Candidates field, enter the public key of the candidate to vote. You can enter multiple public keys separated by Line feeds. Note that each line cannot contain spaces, as shown in the following figure:
 
-   ![img](img/votemulti-EN.png)
+   <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/votemulti-EN.png" width="725">
    *Example: giving three candidates each 100000000 votes.*
 
-4. If the message of a transaction ID is displayed, then you have voted successfully. Youc an check the number of votes for each candidate by accessing the API. (See [Section 6](#6-checking-candidates-and-votes-using-api))
+4. If the message of a transaction ID is displayed, then you have voted successfully. Youc an check the number of votes for each candidate by accessing the API. (See [Appendix 1](#appendix-1-checking-candidates-and-votes-using-api))
 
-### 5.2 Voting: Consensus Node Candidates
+#### 3.3 Gather Votes & Support
 
-For maintainers of he candidate nodes, there are two things to do during the voting process. 
+NEO Foundation will vote for candidates who have completed sections [1](#1-application) and [2](#2test-net-consensus-node). All candidates are also able to gather votes from other NEO holders. 
 
-1. ​
+Candidate information can be added to the [Consensus Nodes](http://neo.org/consensus) page on the NEO website. This can help voters know about the candidates and help candidates acquire potential votes. [See Appendix 2 for how to do it.](#appendix-2-add-candidate-info-to-consensus-node-page)
 
-2. Vote**
+---
 
-   Vote for your own and/or other candidates following the steps in [5.1]().
 
-3. **Gather Community Support**
-
-   Campaign for support from NEO communities such as Reddit and Discord, so that other NEO holders will vote for the candidate node. 
-
-## 6. Checking Candidates and Votes using API
+## Appendix 1. Checking Candidates and Votes using API
 
 To check the number of votes on each candidate that has registered, you can use Postman or any other RPC program to access the API. (For instructions on how to, see [this document](Using RPC to Call NEO API.md))
 
 As shown below, send a `getvalidators` request to the API. 
 
-![img](img/getvalidator2.png)
+<img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/getvalidator2.png" width="725">
 
 The node returns a json file containing public keys of candidates and the votes each one received. 
 
@@ -157,3 +158,34 @@ The **`active`** field in the returning json file indicates the status of the no
 `false` means the node is a candidate node. 
 
 `true` means the node is a consensus node. 
+
+## Appendix 2. Add Candidate Info to Consensus Node Page
+
+The [Consensus Nodes](neo.org/consensus) page can be used to track the status and number of votes for each candidate on the main-net. Clicking on the green arrow can expand and show more information for each node. 
+
+<img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSited1-EN.png" width="755">
+
+**To Add Candidate Info: **
+
+1. Select <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSited2-EN.png" width="220">, which opens the Candidate Info tab. 
+
+2. Select the public key of your consensus node from the drop-down menu. Enter information about the candidate. 
+
+3. Once the information is complete, select `Generate Hash`. Which will generate a hash string. 
+
+   <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSited3-EN.png" width="620">
+
+4. Open NEO GUI, select `Advanced` -> `Sign Message...` (*Available only to 3.0 or above*)
+
+   <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSite4-EN.png" width="725">
+
+5. Select the address of your candidate in `Address`, paste the hash string into the `Input` field and select `Sign`. 
+   Copy the output signature. 
+
+   <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSite5-EN.png" width="725">
+
+6. Return to the Candidate Info tab on the browser, paste the signature and select `Submit`. 
+
+   <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSite6-EN.png" width="620">
+
+   If the green arrow to the right of your node on the page is green and expandable,  then your candidate info is successfully submitted! 
