@@ -3,13 +3,22 @@
 
 ## Current Consensus Nodes
 
-The NEO Mainnet currently has 7 consensus nodes. 6 of them are being maintained by NEO Foundation, while 1 is maintained by CityOfZion. NEO plans to expand the number of consensus nodes maintained by the community. This guide will cover the requirements and process of becoming a consensus node. 
+The NEO main-net currently has 7 consensus nodes. 6 of them are being maintained by NEO Foundation, while 1 is maintained by CityOfZion. 
+
+The NEO test-net currently has 7 consensus nodes. 3 of them are being maintained by NEO Foundation, 1 by Neo Global Development, 3 by CityOfZion.
+
+NEO plans to expand the number of consensus nodes maintained by the community. This guide will cover the requirements and process of becoming a consensus node.
 
 ## 1. Requirements
 
 ### 1.1 Hardware Requirements
 
-AWS EC2 m5d.xlarge, 4 core processor, 16 GB RAM, 10GB Bandwidth, 150 SSD  *(equivalent or above)*
+Recommended Minimum Hardware Specifications for a machine running NEO consensus node:
+
+- 4 Core CPU
+- 8 GB RAM
+- 10M Bandwidth
+- 100G Hard Drive
 
 ### 1.2 Other Criteria
 
@@ -47,7 +56,7 @@ Anyone who applies for becoming a consensus node candidate is advised to provide
 
 An application containing information listed in [1.2](#12-other-criteria) can be emailed to: 
 
-linpengtao@neo.org
+foundation@neo.org
 
 ### 2.2 Website Application
 
@@ -85,7 +94,7 @@ Once the application is successful, you can use the NEO GUI to register as a can
 
 4. If the message of a transaction ID is displayed, then the transaction is constructed successfully. You can check if the candidate has been successfully registered by accessing the API. (See [Section 6](#6-checking-candidates-and-votes-using-api))
 
-## 5.Voting for Candidates
+## 5.Voting
 
 ### 5.0 The Voting Mechanism\*
 
@@ -100,7 +109,9 @@ After voting, the NEO network calculates in real time based on the number of can
 3. Calculate the weighted average of the remaining 50% data, which is then determined as the current NEO consensus node number N
 4. The top N candidates with the highest number of votes become consensus nodes
 
-### 5.1 To Vote
+### 5.1 Voting: NEO Holders
+
+Any nodes holding NEO can vote using the GUI. 
 
 1. In NEO-GUI, open the wallet account to vote. 
 
@@ -113,6 +124,20 @@ After voting, the NEO network calculates in real time based on the number of can
 
 4. If the message of a transaction ID is displayed, then you have voted successfully. Youc an check the number of votes for each candidate by accessing the API. (See [Section 6](#6-checking-candidates-and-votes-using-api))
 
+### 5.2 Voting: Consensus Node Candidates
+
+For maintainers of he candidate nodes, there are two things to do during the voting process. 
+
+1. ​
+
+2. Vote**
+
+   Vote for your own and/or other candidates following the steps in [5.1]().
+
+3. **Gather Community Support**
+
+   Campaign for support from NEO communities such as Reddit and Discord, so that other NEO holders will vote for the candidate node. 
+
 ## 6. Checking Candidates and Votes using API
 
 To check the number of votes on each candidate that has registered, you can use Postman or any other RPC program to access the API. (For instructions on how to, see [this document](Using RPC to Call NEO API.md))
@@ -124,3 +149,11 @@ As shown below, send a `getvalidators` request to the API.
 The node returns a json file containing public keys of candidates and the votes each one received. 
 
 In the picture, the candidate with the public key `3076fc0ee6c6ccf3fb0c9b3ff9d0e3d9ba7ef97e54c77240991ec1dffa295503b` was given 100000000 votes. 
+
+### Consensus Node Status
+
+The **`active`** field in the returning json file indicates the status of the node. 
+
+`false` means the node is a candidate node. 
+
+`true` means the node is a consensus node. 
