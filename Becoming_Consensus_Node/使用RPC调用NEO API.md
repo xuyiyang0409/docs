@@ -1,7 +1,7 @@
 # 使用RPC调用NEO API
-*[English Ver. of this Guide](Using%20RPC%20to%20Call%20NEO%20API.md)*
-
 > *RPC: Remote Procedure Call, 远程过程调用*
+
+*[English Ver. of this Guide](Using%20RPC%20to%20Call%20NEO%20API.md)*
 
 每个 NEO 节点 Neo-CLI 都可选的提供了一套 API 接口，用于从节点获取区块链数据，使得开发区块链应用变得十分方便。接口通过 [JSON-RPC](http://wiki.geekdream.com/Specification/json-rpc_2.0.html) 的方式提供，底层使用 HTTP/HTTPS 协议进行通讯。以下是使用Postman调用API的例子。
 
@@ -14,6 +14,7 @@
 #### 调用过程
 
 0. > *如果使用HTTP调用，跳过这步*
+   
    如果要使用HTTPS，打开NEO CLI所在目录的`config.json`，如下修改`"RPC"`对应的几个值：
 
       ```json
