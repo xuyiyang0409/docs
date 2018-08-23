@@ -12,7 +12,7 @@
   * [3. Main-net Consensus Node](#3-main-net-consensus-node)
     + [3.1 Becoming A Candidate](#31-becoming-a-candidate)
     + [3.2 Voting](#32-voting)
-      - [3.2.0 The Voting Mechanism\*](#320-the-voting-mechanism--)
+      - [3.2.0 The Voting Mechanism](#320-the-voting-mechanism)
       - [3.2.1 Voting NEO GUI](#321-voting-neo-gui)
     + [3.3 Gather Votes & Support](#33-gather-votes--support)
   * [Appendix 1. Checking Candidates and Votes using API](#appendix-1-checking-candidates-and-votes-using-api)
