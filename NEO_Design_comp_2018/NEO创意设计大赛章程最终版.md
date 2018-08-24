@@ -93,7 +93,7 @@ NEO Gas / NEO Asset / NEO  Contract / NEO VM / NEO DevPack / NEO ID / NEO FS / N
 
 3. 参赛者不得将参赛作品转让或授权给任何第三方；
 
-4.主办方对本活动保留最终解释权。
+4. 主办方对本活动保留最终解释权。
 
 
 
