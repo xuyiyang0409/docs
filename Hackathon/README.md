@@ -1,23 +1,27 @@
-# Community Competitions
+# Hackathon
 
-A list of past (and upcoming) hackathons/other challenges. <br/>*Read this in other languages: [简体中文](README.zh-cn.md), [日本語](README.jp.md),.*
+A list of past (and upcoming) hackathons/other challenges. <br/>*Read this in other languages: [简体中文](README.zh-cn.md).*
 
 ### NGD Goal
 
 We believe that Hackathons and community led competitions can be very helpful for connecting the neo community and developing the neo ecosystem.
 
 ### Event types
-- **Hackathons** 
-
-  Theme-based, large scale events focusing on the development of dApps on the NEO blockchain or other applications related to the community. These events are often announced a few months in advance, held in a specified city, and often last from one day to an entire weekend. 
-
 - **Challenges**
 
-  Challenges are often smaller in scale compared to Hackathons. Participants will be provided with several problems specific to the development side of NEO, with difficulty ranging from novice up to advanced. These events could be held either online or in a physical venue. 
-  
-- **Design Competitions**
+  Challenges are often smaller in scale compared to Hackathons, and are held multiple times a year. Participants will be provided with several problems specific to the development side of NEO, with difficulty ranging from novice up to advanced. These events have been held in major cities worldwide, but could be held either offline or online in the future. 
 
-  Design competitions will often be announced and held online. Any individual designer or team can enter the competition with their work. 
+- **Hackathons** 
+
+  Theme-based, large scale events focusing on the development of dApps on the NEO blockchain or other applications related to the community. Hackathons are often announced a few months in advance, held in a specified city, and often last from one day to an entire weekend. 
+
+- **Competitions**
+
+  These events are often held once a year and exclusively online. Teams and individuals compete to present their best work for the proposed topic before the deadline. Different categories of winners are often chosen and rewarded. 
+
+- **Design**
+
+  These events will often be announced and held online. Any individual designer or team can enter the competition with their work. 
 
 ### Hackathon List
 
@@ -25,7 +29,7 @@ Events in the past
 
 **June 9th** [NEO Blockchain Challenge – Shenzhen](6.09%20NEO%20Blockchain%20Challenge%20-%20Shenzhen.md)
 
-**June 17th** [NEO Blockchain ~~Challenge~~ **Hackathon** – London](6.17%20NEO%20Blockchain%20Challenge%20-%20London.md)
+**June 17th** [NEO Blockchain Challenge – London](6.17%20NEO%20Blockchain%20Challenge%20-%20London.md)
 
 Events coming up for the community to participate in. Prizes are listed inside.
 
