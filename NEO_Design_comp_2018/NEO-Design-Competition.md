@@ -81,7 +81,7 @@ The competition will award up to RMB201,000 (in GAS)
 
 3. Your design should incorporate the features of blockchain industry and be suitable for efficient mass communication
 
-4. You are free to use any style, form and visual elements to present your work. There is no specific requirement of designing tools. Please submit an e-version of your work in .jpg, .jpeg and .png formats using RGB mode. File size shall not exceed 5GB, accompanied by a brief description of your design purpose.
+4. You are free to use any style, form and visual elements to present your work. There is no specific requirement of designing tools. Please submit an e-version of your work in .jpg, .jpeg and .png formats using RGB mode. File size shall not exceed 20MB, accompanied by a brief description of your design purpose.
 
 5. No such information as the competitor’s employer, name (inc. English name or acronym) or any icon, image or hint to the competitor’s identity shall be contained in the designs.
 
