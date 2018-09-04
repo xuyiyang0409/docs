@@ -70,13 +70,16 @@ NEO Gas / NEO Asset / NEO  Contract / NEO VM / NEO DevPack / NEO ID / NEO FS / N
 
 ## 大赛评委：
 
-   <img src="https://neo-cdn.azureedge.net/images/team/yan.jpg">
+   <img src="https://neo-cdn.azureedge.net/images/team/yan.jpg" width="100">
    严明夏
 
+   <img src="https://neo-cdn.azureedge.net/images/team/xiaoli.jpg" width="100">
    李小莉
 
+   <img src="https://neo-cdn.azureedge.net/images/team/zeng.jpg" width="100">
    曾晨
 
+   <img src="https://neo-cdn.azureedge.net/images/team/simiao.jpg" width="100">
    王思邈
 
 ## 作品设计要求：
@@ -95,9 +98,9 @@ NEO Gas / NEO Asset / NEO  Contract / NEO VM / NEO DevPack / NEO ID / NEO FS / N
 
 ## 投稿方式：
 
-请将作品文件及设计说明统一压缩后发送至邮箱：design@neo.org 。
+1.请将作品文件及设计说明统一压缩后发送至邮箱：design@neo.org 。
 
-邮件与压缩文件命名方式：参赛类别-作品名-姓名/团队名。
+2.邮件与压缩文件命名方式：参赛类别-作品名-姓名/团队名。
 
 ## 注意事项（版权声明）：
 
