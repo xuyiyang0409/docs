@@ -70,6 +70,7 @@ NEO Gas / NEO Asset / NEO  Contract / NEO VM / NEO DevPack / NEO ID / NEO FS / N
 
 ## 大赛评委：
 
+   <img src="https://neo-cdn.azureedge.net/images/team/yan.jpg">
    严明夏
 
    李小莉
