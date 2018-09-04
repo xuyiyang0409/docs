@@ -1,5 +1,7 @@
 # Rules for NEO Creative Design Competition
 
+> *Read this page in other languages: [中文](neo创意设计大赛章程.md)*
+
 ## Background
 
 NEO, a world renowned blockchain project, has been on the fast track of development in recent years, making considerable breakthroughs in development and community expansion. Given that the community has placed high expectation on our branding and promotional effect, we are planning on a creative design competition – NEO Creative Design Competition to put heads together with the purpose of diversifying the visual elements and enhancing the visual effect of our brand. By holding the competition, we also hope to find more talented designers willing to join NEO community to contribute.
