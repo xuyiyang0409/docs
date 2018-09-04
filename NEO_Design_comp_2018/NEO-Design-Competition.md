@@ -1,6 +1,6 @@
 # Rules for NEO Creative Design Competition
 
-> *Read this page in other languages: [中文](neo创意设计大赛章程.md)*
+> *Read this page in other languages: [中文](NEO创意设计大赛章程.md)*
 
 ## Background
 
