@@ -88,6 +88,12 @@ The competition will award up to RMB201,000 (in GAS)
 6. Competitors should keep a bitmap source file or vector file at 300dpi(in AI, CDR, PSD or PNG formats) of the submitted entries available for media release and printing in case your works are selected by the organizer for offline promotion. 
 
 
+## Contribute Way
+
+1.Please compress the documents and design instructions and send them to design@neo.org. 
+
+2.The email and compressed files should be named: categories - title of your works - individual/team name
+
 ## Notes (Copyright acknowledgements)
 
 1. Competitors must read and agree to the competition rules prior to submitting the works. Entries in violation of the rules are subject to disqualification by the organizer. Once sumission is made, competitors voluntarily agree to and adhere to relevant rules of the competition.
