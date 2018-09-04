@@ -6,7 +6,7 @@
 
 NEO, a world renowned blockchain project, has been on the fast track of development in recent years, making considerable breakthroughs in development and community expansion. Given that the community has placed high expectation on our branding and promotional effect, we are planning on a creative design competition – NEO Creative Design Competition to put heads together with the purpose of diversifying the visual elements and enhancing the visual effect of our brand. By holding the competition, we also hope to find more talented designers willing to join NEO community to contribute.
 
-**About NEO: **
+**About NEO:**
 
 As a non-profit community-driven blockchain project, NEO uses blockchain technology and digital identity to digitalize assets and automate the management of digital assets using smart contracts. Using a distributed network, it aims to create a “Smart Economy”.
 
