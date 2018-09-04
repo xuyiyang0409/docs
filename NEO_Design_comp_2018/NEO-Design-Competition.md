@@ -26,7 +26,7 @@ An ideal design should be aesthetically pleasing, accommodating both the designi
 
 NEO is an original public chain project. Many of its concepts are original and self-defined, representing essential parts of the ecosystem. To explain and promote these concepts to the public, we are now collecting icons related to NEO ecosystem.
 
-The design should demonstrate the features and roles of each concept, fits in harmony with the overall visual style of NEO and also reflects the design philosophy of NEO. Competitors are required to choose at least 5 out of the 10 concepts given below. See detailed descriptions of each concept (here).
+The design should demonstrate the features and roles of each concept, fits in harmony with the overall visual style of NEO and also reflects the design philosophy of NEO. Competitors are required to choose at least 5 out of the 10 concepts given below. See detailed descriptions of NEO white book (http://docs.neo.org/zh-cn/whitepaper.html).
 
 NEO Gas / NEO Asset / NEO  Contract / NEO VM / NEO DevPack / NEO ID / NEO FS / NEO X / NEO QS / NEO message
 
@@ -44,17 +44,17 @@ The competition will award up to RMB201,000 (in GAS)
 
 #### [NEO Website Design]
 
-1. First Prize             1 team:     RMB 40,000 (in GAS)
-2. Second Prize        2 teams:   RMB 20,000 (in GAS)
-3. Third Prize            3 teams:   RMB 20,000 (in GAS)
-4. Nominee Award    5 teams:   RMB 1,000 (in GAS)
+1. First Prize             1 team:    RMB 40,000 (in GAS)
+2. Second Prize            2 teams:   RMB 20,000 (in GAS)
+3. Third Prize             3 teams:   RMB 10,000 (in GAS)
+4. Nominee Award           5 teams:   RMB 1,000 (in GAS)
 
 #### [NEO Icon Design]
 
-1. First Prize             1 team:     RMB 30,000 (in GAS)
-2. Second Prize        2 teams:   RMB 15,000 (in GAS)
-3. Third Prize            3 teams:   RMB 7,000 (in GAS)
-4. Nominee Award    5 teams:   RMB 1,000 (in GAS)
+1. First Prize             1 team:    RMB 30,000 (in GAS)
+2. Second Prize            2 teams:   RMB 15,000 (in GAS)
+3. Third Prize             3 teams:   RMB 7,000 (in GAS)
+4. Nominee Award           5 teams:   RMB 1,000 (in GAS)
 
 
 **Notes:**
