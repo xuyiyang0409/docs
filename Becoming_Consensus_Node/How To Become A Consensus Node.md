@@ -2,7 +2,9 @@
 *[中文版](如何成为共识节点.md)*
 
 #### Table Of Contents
-  * [Current Consensus Nodes](#current-consensus-nodes)
+  * [Background](#background)
+      * [Current Consensus Nodes](#current-consensus-nodes)
+      * [Concerning the Votes of NEO Foundation](#concerning-the-votes-of-neo-foundation)
   * [1. Application](#1-application)
     + [1.1 Application Criteria](#11-application-criteria)
     + [1.2 Application Methods](#12-application-methods)
@@ -18,9 +20,11 @@
   * [Appendix 1. Checking Candidates and Votes using API](#appendix-1-checking-candidates-and-votes-using-api)
   * [Appendix 2. Add Candidate Info to Consensus Node Page](#appendix-2-add-candidate-info-to-consensus-node-page)
 
-## Current Consensus Nodes
 
-3 of them are being maintained by NEO Foundation, 1 by Neo Global Development, 3 by CityOfZion.
+
+## Background
+
+### Current Consensus Nodes
 
 The NEO main-net currently has 7 consensus nodes. 
 
@@ -32,6 +36,22 @@ The NEO test-net currently has 7 consensus nodes.
 - NEO Foundation maintians 3 of the nodes
 - NEO Global Development maintains 1. 
 - CityOfZion maintains 3. 
+
+### Concerning the Votes of NEO Foundation
+
+50 Million NEO was put into distribution at the beginning(2016), while another 50 Million was locked by NEO Foundation. Below is a timeline of how NEO is to be distributed. 
+
+| Year | NEO Unlocked | Total NEO Unlocked |
+| ---- | ------------ | ------------------ |
+| 2016 | 50 Million   | 50 Million         |
+| 2017 | 15 Million   | 65 Million         |
+| 2018 | 15 Million   | 80 Million         |
+| 2019 | 15 Million   | 95 Million         |
+| 2020 | 5 Million    | 100 Million        |
+
+Since 1 NEO corresponds to 1 vote, it is worth noting that NEO Foundation currently has considerable number of votes. NEO Foundation will vote for applicants who have successfully completed sections [1](#1-application) and [2](#2-test-net-consensus-node) of the document. These node maintainers will also be deemed as partners to the NEO Foundation. 
+
+***Please Note: the application process is not a mechanism of the NEO blockchain. Any node can spend gas to become a candidate node[(See 3. Main-net Consensus Node)](#3-main-net-consensus-node) without the application, and be voted by any NEO holders of the community. Those who do successfully apply will also receive votes from the NEO Foundation.***
 
 ## 1. Application
 
