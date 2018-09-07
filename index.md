@@ -1,6 +1,6 @@
 # A Repository of Documents
 
-Voila! 
+Voila! (This is the index.md page, not the readme page.)
 
 ## Some Links
 
