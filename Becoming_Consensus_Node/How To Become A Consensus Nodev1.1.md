@@ -1,5 +1,5 @@
 # How To Become A Consensus Node
-*v1.1 | [中文版](如何成为共识节点.md)*
+*v1.1 | [中文版](如何成为共识节点v1.1.md)*
 
 #### Table Of Contents
   * [0. Background](#background)
