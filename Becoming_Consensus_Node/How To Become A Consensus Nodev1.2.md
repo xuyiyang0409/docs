@@ -1,5 +1,5 @@
 # How To Become A Consensus Node
-*v1.2 | [中文版](如何成为共识节点.md)*
+*v1.2 | [中文版](如何成为共识节点v1.2.md)*
 
 ```
 TODO
@@ -8,7 +8,7 @@ TODO
 0 background
 1 requirements
 2 partnering with NEO Foundation
-There are two steps to establishing a partnership with NEO in running a consensus node, they are as follows: 
+  There are two steps to establishing a partnership with NEO in running a consensus node, they are as follows: 
 	- sending applications
 	- running test-net consensus node
 3 Main-net candidate & voting
