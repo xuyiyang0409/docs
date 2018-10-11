@@ -176,7 +176,7 @@ If the application is successful, the applicant will start by running a consensu
 
 To become a consensus node on Test-net, they need to first become a candidate. 
 
-### 2.1 Becoming a Candidate
+### 3.1 Becoming a Candidate
 
 > *The GUI operations of becoming a candidate and voting (Sections 4 and 5) are the same on both Test-net and Main-net. The difference is determined by which chain the GUI is synced to. To switch between test-net and main-net on GUI, see [this document](http://docs.neo.org/en-us/network/testnet.html).* 
 
