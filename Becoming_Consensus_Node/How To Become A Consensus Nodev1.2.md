@@ -1,5 +1,6 @@
 # How To Become A Consensus Node
-*v1.2 | [中文版](如何成为共识节点.md)*
+*v1.2 | [中文版](如何成为共识节点v1.2.md)*
+
 
 #### Table Of Contents
   * [0. Background](#background)
@@ -171,7 +172,9 @@ If the application is successful, the applicant will start by test-running a con
 
 To become a consensus node on Test-net, you need to first register as candidate on the blockchain. 
 
+
 #### 2.2.1 Registering as Candidate
+
 
 > *The GUI operations of becoming a candidate and voting (Sections 3 and 4) are the same on both Test-net and Main-net. The difference is determined by which chain the GUI is synced to. To switch between test-net and main-net on GUI, see [this document](http://docs.neo.org/en-us/network/testnet.html).* 
 
