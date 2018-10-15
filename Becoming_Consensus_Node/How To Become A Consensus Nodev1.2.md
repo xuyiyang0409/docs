@@ -89,7 +89,7 @@ Aside from maintaining current consensus nodes, developing NEO's core projects a
 
 Due to the two methods of governance, there are two ways of becoming a consensus node: 
 
-**1) Chain-governance Candidates**
+**1) On-Chain governance Candidates**
 
 If you wish to become a consensus node through the votes of NEO holders and maintain it independently, the steps are as follows: 
 
@@ -108,7 +108,7 @@ If you want to establish a strategic partnership with the NEO Foundation (off-ch
 
 ### Incentives
 
-According to NEO's economical model, the maintainer of NEO consensus node will be rewarded with network fees. New economical model is being discussed.
+According to NEO's economical model, the maintainer of NEO consensus node will be rewarded with network fees. New economical model is being discussed.  
 This section will be updated if the incentive mechanism changes. 
 
 ## 1. Requirements
