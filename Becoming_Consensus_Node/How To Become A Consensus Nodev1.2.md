@@ -2,7 +2,7 @@
 *version 1.2 | [中文版](如何成为共识节点1.2.md)*
 
 #### Table Of Contents
-  * [0. Background](#background)
+  * [0. Background](#0-background)
       * [Current Consensus Nodes](#current-consensus-nodes)
       * [Distribution and Governance](#distribution-and-governance)
       * [Candidate Types](#candidate-types)
