@@ -108,9 +108,8 @@ If you want to establish a strategic partnership with the NEO Foundation (off-ch
 
 ### Incentives
 
-The incentive model for the NEO network is still being discussed. The current plan is to distribute network fees charged in gas among the Consensus Nodes. 
-
-The section will be updated if the incentive mechanism has been finalized. 
+According to NEO's economical model, the maintainer of NEO consensus node will be rewarded with network fees. New economical model is being discussed.
+This section will be updated if the incentive mechanism changes. 
 
 ## 1. Requirements
 
