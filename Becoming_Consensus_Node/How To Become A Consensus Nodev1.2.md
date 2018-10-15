@@ -198,7 +198,7 @@ After 6 months of running the test-net, the applicant will be qualified to becom
 
 ### 3.1 Registering as Candidate
 
-Make sure your NEO GUI is connected to the main-net; Then register as a candidate by repeating the steps in [2.2.1](#221-becoming-a-candidate)
+Make sure your NEO GUI is connected to the main-net; Then register as a candidate by repeating the steps in [2.2.1](#221-registering-as-candidate)
 
 ### 3.2 Voting
 
