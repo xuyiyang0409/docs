@@ -53,7 +53,7 @@ When running a NEO node with NEO CLI, the node can provide an API interface for 
    http://localhost:{port}
    ```
 
-   {port} is the value of your RPC port in config.json. See <a href="#step1">Table 1</a>. 
+   {port} is the value of your RPC port in config.json. See <a href="table1">Table 1</a>. 
 
    Enter request body as a json file: 
 
