@@ -22,7 +22,8 @@ When running a NEO node with NEO CLI, the node can provide an API interface for 
       ```
 
 
-   Reference the table below for the value of`"Port"` 
+   Reference the table below for the value of`"Port"`
+   
    <a name="table1">　</a>
 
    |                | Main Net | Test Net |
@@ -31,8 +32,7 @@ When running a NEO node with NEO CLI, the node can provide an API interface for 
    | JSON-RPC HTTP  | 10332    | 20332    |
 
    *Table 1*
-
-
+   
 <a name="step1">　</a>
 1. In command lines, navigate to the NEO-CLI directory.
 
@@ -53,7 +53,7 @@ When running a NEO node with NEO CLI, the node can provide an API interface for 
    http://localhost:{port}
    ```
 
-   {port} is the value of your RPC port in config.json. See <a href="table1">Table 1</a>. 
+   {port} is the value of your RPC port in config.json. See <a href="#table1">Table 1</a>. 
 
    Enter request body as a json file: 
 
