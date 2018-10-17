@@ -7,7 +7,7 @@ When running a NEO node with NEO CLI, the node can provide an API interface for 
 
 - [NEO CLI](https://github.com/neo-project/neo-cli/releases)
 - [Postman](https://www.getpostman.com/apps) (Or any other RPC program)
-- Windows / Linux system
+- Windows / Linux system (NEO CLI only supports these systems)
 
 #### Procedures
 
