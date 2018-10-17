@@ -70,8 +70,9 @@ When running a NEO node with NEO CLI, the node can provide an API interface for 
 
    ![img](img/Postman2.png)
 
-   *Reference [this page](http://docs.neo.org/en-us/node/cli/apigen.html) for the Json format of API requests.*
-
 4. Send the request, if you get a return like this, the request is successful. 
 
    ![img](img/Postman3.png)
+
+---
+Relevant resources: [Reference for all API methods](http://docs.neo.org/en-us/node/cli/apigen.html)
