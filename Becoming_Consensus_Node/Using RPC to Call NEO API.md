@@ -11,7 +11,7 @@ When running a NEO node with NEO CLI, it provides an API interface for obtaining
 
 #### Procedures
 
-0. If you are accessing RPC using HTTP, skip this step. If you are using HTTPS, open config.json in the NEO-CLI directory. Change the Values for `"RPC"` into: 
+0. If you are accessing RPC using HTTP, <a href="#step1">skip to step 1</a>. If you are using HTTPS, open config.json in the NEO-CLI directory. Change the Values for `"RPC"` into: 
 
       ```json
       "RPC": {
@@ -32,7 +32,7 @@ When running a NEO node with NEO CLI, it provides an API interface for obtaining
    *Table 1*
 
 
-
+<a name="step1">　</a>
 1. In command lines, navigate to the NEO-CLI directory.
 
 2. Launch NEO CLI with RPC using the following command
