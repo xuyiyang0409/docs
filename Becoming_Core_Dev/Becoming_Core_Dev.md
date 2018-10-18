@@ -57,12 +57,12 @@ For vulnerabilities, please follow the [program article](https://neo.org/dev/bou
 
 ##Core Developer
 
-When *significant* ***** development contribution have been made to a project, the developer is given: 
+When *significant** development contribution have been made to a project, the developer is given: 
 
 - 'Collaborator' status on the GitHub repository they have contributed to/wish to contribute. 
 - **Payment from NEO Foundation as a core developer. ** Core developers who make continued contributions in the future will be granted core developer rewards continuously. 
 
-> *****：何种贡献算作Significant
+> \*：何种贡献算作Significant
 >
 > Contributions are regarded 'significant' when they are 1) significant in amount or 2) significant in value
 >
