@@ -55,7 +55,7 @@ For GitHub repositories, please fork, fix, commit and send a Pull Request for th
 
 For vulnerabilities, please follow the [program article](https://neo.org/dev/bounty) and send your findings via email to [erik@neo.org](mailto:erik@neo.org). 
 
-##Core Developer
+## Core Developer
 
 When *significant** development contribution have been made to a project, the developer is given: 
 
