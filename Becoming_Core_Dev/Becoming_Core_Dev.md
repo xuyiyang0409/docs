@@ -62,6 +62,8 @@ When *significant* ***** development contribution have been made to a project, t
 - 'Collaborator' status on the GitHub repository they have contributed to/wish to contribute. 
 - **Payment from NEO Foundation as a core developer. ** Core developers who make continued contributions in the future will be granted core developer rewards continuously. 
 
+*Please note that community contributors who become 'core developers' do not become employees of NEO. The goal is to encourage and cultivate the interest in contributing to NEO's development.*
+
 > *****：何种贡献算作Significant
 >
 > Contributions are regarded 'significant' when they are 1) significant in amount or 2) significant in value
