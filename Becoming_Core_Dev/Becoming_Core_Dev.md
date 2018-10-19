@@ -60,6 +60,7 @@ For vulnerabilities, please follow the [program article](https://neo.org/dev/bou
 When *significant** development contribution have been made to a project, the developer is given: 
 
 - 'Collaborator' status on the GitHub repository they have contributed to/wish to contribute. 
+- **Payment from NEO Foundation as a core developer. ** Core developers who make continued contributions in the future will be granted core developer rewards continuously. 	
 
 *Please note that community contributors who become 'core developers' do not become employees of NEO. The goal is to encourage and cultivate the interest in contributing to NEO's development.*
 
