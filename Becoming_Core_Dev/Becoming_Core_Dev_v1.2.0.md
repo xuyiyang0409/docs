@@ -80,7 +80,7 @@ Once someone gains the core developer status, they will be sent an email to beco
 
 
 
-##Responsibilities 
+## Responsibilities 
 
 A core developer is: 
 
