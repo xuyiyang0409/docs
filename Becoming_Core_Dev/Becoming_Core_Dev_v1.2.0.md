@@ -68,9 +68,9 @@ For vulnerabilities, please follow the [program article](https://neo.org/dev/bou
 In general, a contributer will be considered for the role of a core developer when he/she has: 
 
 - Been able to consistenly make pull requests that do not require extensive reviews and re-writes. 
-- Over the last 2 months, made 10 pull requests that have been committed to the project OR have edited(added and deleted) over 250 lines of code [*(number determined by referencing /neo-project commits)*](https://github.com/neo-project/neo/graphs/contributors). 
+- Over the last 3 months, made over 5 pull requests that have been committed to the project OR have edited(added and deleted) over 200 lines of code [*(number determined by referencing /neo-project commits)*](https://github.com/neo-project/neo/graphs/contributors). 
 
-> *Please note that these criteria are not hard and fast rules for qualifying as a core developer, but only a reference of the work expected from one. The actual criteria may vary in each individual case. Developers who would like to be considered for a core developer are advised to get in touch with the existing maintainers and core developers through email, Github and [Discord](https://discord.io/neo)*
+> *Please note that these criteria are not hard and fast rules for qualifying as a core developer, but only a reference of the work expected from one. The actual criteria will vary for each project and each developer. Developers who would like to be considered for a core developer are advised to get in touch with the existing maintainers and core developers through email, Github and [Discord](https://discord.io/neo)*
 
 
 
