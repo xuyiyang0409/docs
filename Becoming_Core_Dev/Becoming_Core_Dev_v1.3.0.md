@@ -34,8 +34,6 @@ For GitHub repositories, please fork, fix, commit and send a Pull Request for th
   - [neo-cli](https://github.com/neo-project/neo-cli)
   - [neo-gui](https://github.com/neo-project/neo-gui)
   - [neo-devpack-dotnet](https://github.com/neo-project/neo-devpack-dotnet)
-  - [neo-devpack-java](https://github.com/neo-project/neo-devpack-java)
-  - [neo-plugins](https://github.com/neo-project/neo-plugins)
 
 
 #### 2) Vulnerability Bounty Program 
