@@ -107,5 +107,5 @@ A core developer receives monetary rewards from NEO Foundation. Core developers 
 #### *References & Sources:* 
 
 1. *[Python Doc: How to Become A core developer](https://devguide.python.org/coredev/)*
-2. *[/neo-project contributors page](https://github.com/neo-project/neo/graphs/contributors)*
+2. *[neo-project contributors page](https://github.com/neo-project/neo/graphs/contributors)*
 3. *[How To Contribute to Open Source - Communicating Effectively](https://opensource.guide/how-to-contribute/#communicating-effectively)*
