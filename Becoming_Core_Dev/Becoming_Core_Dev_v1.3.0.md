@@ -1,6 +1,6 @@
 # How to Become A Core Developer
 
-> *Ver. 1.3.0.(alpha)*
+> *Ver. 1.3.0.(beta)*
 
 #### Table of Contents
 
@@ -50,7 +50,7 @@ Typically, an existing NEO developer will offer you the chance to become a core 
 
 **If**, for example, for a repository in the NEO core project: 
 
-- You have, over the last 3 months, made over 5 pull requests that have been committed to the project OR have edited(added and deleted) over 200 lines of code [*(number determined by referencing /neo-project commits)*](https://github.com/neo-project/neo/graphs/contributors).
+- You have, over the last 3 months, made over 5 pull requests that have been committed to the project OR have edited(added and deleted) over 200 lines of code [*(number determined by referencing /neo-project commits)*](https://github.com/neo-project/neo/graphs/contributors). Or over a longer period of time, made a similar amount of contribution on average. 
 - You have been able to consistently make pull requests that do not require extensive reviews and re-writes before being able to commit to the project. 
 
 Then you are likely going to be offered the role of a core developer, which comes with privileges and responsibilities. 
