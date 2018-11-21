@@ -71,7 +71,7 @@ You should also continue to submit your own changes through pull requests as if 
 
 #### Monitoring Merges
 
-As core developers gain the privilege of being able to approve or reject changes to the repository, they are also able to request that even already merged changes be escalated to NEO developers for further discussion, and potentially even be reverted prior to release.
+Core developers are able to approve or reject changes to the repository, they are also able to request that even already merged changes be escalated to NEO developers for further discussion, and potentially even be reverted prior to release.
 
 #### Issue Tracker
 
@@ -81,16 +81,18 @@ You would be able to manage the `issues` tab on the GitHub repository, including
 
 ## Responsibilities 
 
-Being a core developer also comes with its responsibilities. 
+As core developers of the NEO core project, there is a shared responsibility to collaborate constructively with other core developers and contributors. That includes the following: 
 
-The scope of some of the following responsibilities may vary according to the area you may choose to contribute. 
-
-- Collaborate constructively with other contributors and core developers. That means maintaining [effective communication](https://opensource.guide/how-to-contribute/#communicating-effectively) and be prompt in responding to questions, including processing issues on GitHub. 
+- You should maintain [effective communication](https://opensource.guide/how-to-contribute/#communicating-effectively) and be prompt in responding to questions, including processing issues on GitHub. 
 - As you first become a core developer, you should inform the core developers responsible for the same repository as to what areas you are inclined to contribute. This allows the relevant topics and issues to be redirected to you. 
 - You are responsible for handling the consequences of accepting/committing a change into the code base. This mostly includes reverting or fixing the commit if it causes any problems for the project. 
 
 
-- You are responsible for for tracking the `issues` tab of the project they are contributing to. The core developer should reply to issues assigned to them, and decide when issues listed or changes proposed should be escalated for discussion with NEO developers. 
+- You are responsible for for tracking the `issues` tab of the project you are contributing to. The core developer should reply to issues assigned to them, and decide when issues listed or changes proposed should be escalated for discussion with NEO developers. 
+
+
+The scope of some of the responsibilities above may vary according to the area you may choose to contribute. 
+
 
 
 
