@@ -1,6 +1,6 @@
 # How to Become A Core Developer
 
-> *Ver. 1.3.0.(beta)*
+> *Ver. 1.3.0. (beta)* \| [中文版](如何成为核心开发者v1.3.md)
 
 #### Table of Contents
 
@@ -22,7 +22,7 @@ NEO operates as an open-source project. Developers who are interested in contrib
 
 #### 1) GitHub Repositories
 
-For GitHub repositories, please fork, fix, commit and send a Pull Request for the maintainers to review and merge into the main code base. A more detailed guideline can be found on the contribution section for the NEO core project [here](https://github.com/neo-project/neo#how-to-contribute). 
+For GitHub repositories, please fork, fix, commit and send a Pull Request for the maintainers to review and merge into the main code base. Before sending a Pull Request, please consult the [**Contribution Guideline**](https://github.com/neo-project/neo#how-to-contribute) found on the NEO core project. 
 
 - NEO Core Project
 
@@ -33,12 +33,12 @@ For GitHub repositories, please fork, fix, commit and send a Pull Request for th
   - [neo-compiler](https://github.com/neo-project/neo-compiler)
   - [neo-cli](https://github.com/neo-project/neo-cli)
   - [neo-gui](https://github.com/neo-project/neo-gui)
-  - [neo-devpack-dotnet](https://github.com/neo-project/neo-devpack-dotnet)
+  - [neo-devpack-dotnet](https://github.com/neo-project/neo--dotnet)
 
 
 #### 2) Vulnerability Bounty Program 
 
-For vulnerabilities, please follow the [program article](https://neo.org/dev/bounty) and send your findings via email to [erik@neo.org](mailto:erik@neo.org). 
+NEO rewards those who can locate vulnerabilities within the blockchain. For more detail, please follow the [program article](https://neo.org/dev/bounty) and send your findings via email to [erik@neo.org](mailto:erik@neo.org). 
 
 ### Qualifying as a Core Developer
 
@@ -67,15 +67,13 @@ As you become a core developer, you gain access to a few things that you should 
 
 You will be added on the corresponding GitHub repository as a `collaborator`. This means that you are granted `commit` privileges to the repositories of the project. You will also be able to approve or reject all Pull Requests to this repository. 
 
-You should also continue to submit your own changes through pull requests as if you weren’t a core developer to benefit from various things such as automatic integration testing, but you can accept your own pull requests if you feel comfortable doing so. 
-
 #### Monitoring Merges
 
 Core developers are able to approve or reject changes to the repository, they are also able to request that even already merged changes be escalated to NEO developers for further discussion, and potentially even be reverted prior to release.
 
 #### Issue Tracker
 
-You would be able to manage the `issues` tab on the GitHub repository, including assigning issues to different categories and closing them. 
+You would be able to manage the `issues` tab on the GitHub repository, including opening and closing issues, and assigning issues to different categories and closing them. 
 
 
 
@@ -98,9 +96,9 @@ The scope of some of the responsibilities above may vary according to the area y
 
 ## Incentivization
 
-A core developer receives monetary rewards from NEO Foundation. Core developers who make continued contributions in the future will be granted core developer rewards continuously. 
+A core developer receives monetary rewards from NEO Foundation. Core developers who make continued contributions in the future will be granted core developer rewards on a regular basis. 
 
-*However, it is worth noting that community contributors who become 'core developers' do not become employees of NEO. The goal is to encourage and cultivate the interest in learning about and contributing to NEO's development.*
+*However, it is worth noting that community contributors who become 'core developers' do not become employees of NEO. The goal is to encourage and cultivate the interest in learning about and contributing to the fundamental levels of NEO's development.*
 
 
 
