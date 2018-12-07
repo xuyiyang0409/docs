@@ -7,7 +7,7 @@
   * [Criteria](#criteria)
       + [Projects to Contribute](#projects-to-contribute)
       + [Qualifying as a Core Developer](#qualifying-as-a-core-developer)
-  * [Access](#access)
+  * [Privileges](#privileges)
   * [Responsibilities](#responsibilities)
   * [Incentivization](#incentivization)
 
