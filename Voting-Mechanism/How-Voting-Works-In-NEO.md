@@ -33,13 +33,17 @@ Once the votes are cast, the NEO network calculates the consensus nodes in real 
 
 ### How to Cast Your Vote
 
-Before voting, you will need to know what candidates there are and the information on each candidate; all of which can be found on he NEO [Consensus Node page](https://neo.org/consensus). The page displays all candidate nodes that are registered on the NEO blockchain, and candidates themselves can modify the information of their corresponding node. 
+Before voting, you will need to know what candidates there are and the information on each candidate; all of which can be found on he NEO [Consensus Node page](https://neo.org/consensus). The page displays all candidate nodes that are registered on the NEO blockchain, and candidates themselves can edit information on their corresponding node such as *Website*, *Organization Summary*, etc. 
+
+<img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSited1a-EN.png" width="755">
+
+*Image: A list of consensus nodes on the page.*
 
 Once you have found the candidate(s) that you wish to vote for, note down their *Public Key* as this will be needed during voting. 
 
 Currently, the only way to vote is through the [NEO-GUI](http://docs.neo.org/en-us/node/gui/install.html). 
 
-> *For first time users, as synchronizing the blockchain would take quite a long time, it is advised that you use the [offline synchronization package](http://docs.neo.org/en-us/network/syncblocks.html). You can export your WIF/private key from your current NEO wallet and follow [this guide](https://github.com/neo-project/neo/wiki/Guide:-How-to-Import-Private-Key-to-NEO-GUI#import-your-wallet-to-the-pc-client) to import your wallet to the GUI.* 
+> *For first-time users, as synchronizing the blockchain would take quite a long time, it is advised that you use the [offline synchronization package](http://docs.neo.org/en-us/network/syncblocks.html). You can export your WIF/private key from your current NEO wallet and follow [this guide](https://github.com/neo-project/neo/wiki/Guide:-How-to-Import-Private-Key-to-NEO-GUI#import-your-wallet-to-the-pc-client) to import your wallet to the GUI.* 
 
 1. In NEO-GUI, open the wallet account to vote. 
 
@@ -51,3 +55,7 @@ Currently, the only way to vote is through the [NEO-GUI](http://docs.neo.org/en-
    *Example: giving three candidates each 100000000 votes.*
 
 4. If the message of a transaction ID is displayed, then you have voted successfully. Again, you can check the number of votes for each candidate on the [consensus node page](https://neo.org/consensus). 
+
+#### *Further Information*
+
+The write-up is mostly based on the [How To Become NEO Consensus Node](https://neo-ngd.github.io/reference/How-To-Become-NEO-Consensus-Node.html) document. The document itself is more oriented towards consensus node candidates, but more information on NEO's consensus node selection process can be found there. 
