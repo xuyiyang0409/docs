@@ -1,4 +1,4 @@
-- ## How Voting Works In the NEO Network
+## How Voting Works In the NEO Network
 
   ##### How Many Votes Do You Have
 
