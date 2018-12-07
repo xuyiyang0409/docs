@@ -16,7 +16,7 @@ Once the votes are cast, the NEO network calculates the consensus nodes in real 
 
   1. Sort the number of candidates each account voted for by size. e.g. C1, C2, ..., Cn
 
-    > *Note: Since each account can vote for an unlimited number of candidates, the number of candidates each account voted for (Cn) is almost certainly different from each other.*
+     > *Note: Since each account can vote for an unlimited number of candidates, the number of candidates each account voted for (Cn) is almost certainly different from each other.*
 
   2. Remove the first 25% and the last 25% of the array. 
 
