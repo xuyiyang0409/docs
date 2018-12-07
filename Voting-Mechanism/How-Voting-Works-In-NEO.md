@@ -1,18 +1,20 @@
 ## How Voting Works In the NEO Network
 
-  ##### How Many Votes Do You Have
+As NEO plans to [accelerate its decentralization](https://neo.org/blog/details/4125) in 2019 and beyond, there will be a few voting cycles on the NEO network that anyone who holds NEO can participate. This write-up compiles the relevant information that a NEO holder should know if they want to participate in voting. 
 
-  Any node that holds NEO can vote for an unlimited number of candidates. The number of votes corresponds to the number of NEO held in the account. If NEO balance changes during the voting cycle, the candidate's votes will simultaneously be updated to reflect the change in balance.  
+### How Many Votes Do You Have
 
-  For Example, if there are 100 NEO in an account, and the account voted for 3 candidates, each candidate receives 100 votes. If NEO in the account is spent after the vote, the candidates' votes will simultaneously be decreased to the current NEO balance.
+Any node that holds NEO can vote for an unlimited number of candidates. The number of votes corresponds to the number of NEO held in the account. If NEO balance changes during the voting cycle, the candidate's votes will simultaneously be updated to reflect the change in balance.  
 
-  ##### How Are Consensus Nodes Selected
+For Example, if there are 100 NEO in an account, and the account voted for 3 candidates, each candidate receives 100 votes. If NEO in the account is spent after the vote, the candidates' votes will simultaneously be decreased to the current NEO balance.
 
-  Once the votes are cast, the NEO network calculates the consensus nodes in real time, with the following methods: 
+### How Are Consensus Nodes Selected
+
+Once the votes are cast, the NEO network calculates the consensus nodes in real time, with the following methods: 
 
   - First, candidate nodes are sorted by the number of votes they receive. 
 
-  - Then network calculates *N*, which is how many top candidates in the sorted list are to be selected as consensus nodes: 
+  - Then the network calculates *N*, which is how many top candidates in the sorted list are to be selected as consensus nodes: 
 
     1. Sort the number of candidates each account voted for by size. e.g. C1, C2, ..., Cn
 
@@ -26,4 +28,22 @@
 
   - Once N is determined, the top N candidates with the highest number of votes become the consensus nodes. 
 
-  ​
+
+**TL;DR**: The NEO network determines how many Consensus Nodes to select by calculating a weighted average of the middle 50% of the number of candidates that each account voted for. 
+
+### How to Cast Your Vote
+
+Currently, the only way to vote is through the [NEO-GUI](http://docs.neo.org/en-us/node/gui/install.html). 
+
+> *For first time users, as synchronizing the blockchain would take quite a long time, it is advised that you use the [offline synchronization package](http://docs.neo.org/en-us/network/syncblocks.html). You can export your WIF/private key from your current NEO wallet and follow [this guide](https://github.com/neo-project/neo/wiki/Guide:-How-to-Import-Private-Key-to-NEO-GUI#import-your-wallet-to-the-pc-client) to import your wallet to the GUI.* 
+
+1. In NEO-GUI, open the wallet account to vote. 
+
+2. Right-click on the account -> `Vote`.
+
+3. In the Candidates field, enter the public key of the candidate to vote. You can enter multiple public keys separated by Line feeds. Note that each line cannot contain spaces, as shown in the following figure:
+
+   <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/votemulti-EN.png" width="725">
+   *Example: giving three candidates each 100000000 votes.*
+
+4. If the message of a transaction ID is displayed, then you have voted successfully. You can check the number of votes for each candidate on the [consensus node]() page on NEO's website. 
