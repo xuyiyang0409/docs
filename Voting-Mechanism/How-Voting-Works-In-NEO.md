@@ -49,9 +49,10 @@ Currently, the only way to vote is through the [NEO-GUI](http://docs.neo.org/en-
 
 2. Right-click on the account -> `Vote`.
 
-3. In the Candidates field, enter the *Public Key*(found on the consensus node page) of the candidate to vote. You can enter multiple public keys separated by Line feeds. Note that each line cannot contain spaces, as shown in the following figure:
+3. In the Candidates field, enter the *Public Key*(found on the consensus node page) of the candidate to vote. You can enter multiple public keys separated by Line feeds. Note that each line cannot contain spaces, as shown in the following image:
 
    <img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/votemulti-EN.png" width="725">
+   
    *Example: giving three candidates each 100000000 votes.*
 
 4. If the message of a transaction ID is displayed, then you have voted successfully. Again, you can check the number of votes for each candidate on the [consensus node page](https://neo.org/consensus). 
