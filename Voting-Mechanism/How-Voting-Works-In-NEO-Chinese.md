@@ -58,6 +58,6 @@ _图片：页面上的共识节点列表。_
 
 4.如果显示出交易ID消息，则表示您已成功投票。同样，您可以在[共识节点页面](https://neo.org/consensus)上查看每位候选人的投票数。
 
-### /更多信息/
+### 更多信息
 
 该报告主要基于文档[如何成为NEO共识节点](https://neo-ngd.github.io/reference/How-To-Become-NEO-Consensus-Node.html)。文档本身更倾向于共识节点候选者，但可以在那里找到有关NEO共识节点选择过程的更多信息。
