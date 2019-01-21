@@ -23,7 +23,7 @@
 
 	2. 删除阵列的前25％和最后25％。
 
-	3. 计算剩余50％数据的_加权平均值_，然后将其确定为要选择的共识节点数N。
+	3. 计算剩余50％数据的加权平均值，然后将其确定为要选择的共识节点数N。
 
 >        加权平均值取决于每个账户中持有的NEO。这意味着，在计算要选择的共识节点数时，持有更多NEO的帐户会比平均值贡献更多。
 
@@ -44,7 +44,7 @@ _图片：页面上的共识节点列表。_
 
 目前，唯一的投票方式是通过[NEO-GUI](http://docs.neo.org/en-us/node/gui/install.html)。
 
-> /> 对于初次使用的用户，由于同步区块链需要相当长的时间，因此建议您使用[离线同步包](https://docs.neo.org/en-us/network/syncblocks.html)。您可以从您当前的NEO钱包中导出您的WIF /私钥，然后按照[本指南](https://github.com/neo-project/neo#import-your-wallet-to-the-pc-client)将钱包导入GUI。/  
+> 对于初次使用的用户，由于同步区块链需要相当长的时间，因此建议您使用[离线同步包](https://docs.neo.org/en-us/network/syncblocks.html)。您可以从您当前的NEO钱包中导出您的WIF /私钥，然后按照[本指南](https://github.com/neo-project/neo#import-your-wallet-to-the-pc-client)将钱包导入GUI。
 
 	1. 在NEO-GUI中，打开钱包账户进行投票。
 
