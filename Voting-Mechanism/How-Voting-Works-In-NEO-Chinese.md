@@ -19,13 +19,13 @@
 	
 	1. 按大小对每个帐户投票的候选人数进行排序。例如C1，C2，…，Cn
 
->        注意：由于每个账户都可以投票给无限数量的候选人，因此每个账户投票的候选人数（Cn）几乎肯定是不同的。*  
+>        注意：由于每个账户都可以投票给无限数量的候选人，因此每个账户投票的候选人数（Cn）几乎肯定是不同的。
 
 	2. 删除阵列的前25％和最后25％。
 
 	3. 计算剩余50％数据的_加权平均值_，然后将其确定为要选择的共识节点数N。
 
->        加权平均值取决于每个账户中持有的NEO。这意味着，在计算要选择的共识节点数时，持有更多NEO的帐户会比平均值贡献更多。*  
+>        加权平均值取决于每个账户中持有的NEO。这意味着，在计算要选择的共识节点数时，持有更多NEO的帐户会比平均值贡献更多。
 
 	* 一旦N被确定，拥有最高票数的前N个候选者成为共识节点。
 
@@ -36,7 +36,7 @@
 
 在投票之前，您需要知道有哪些候选人和每位候选人的信息;所有这些都可以在NEO [共识节点页面](https://neo.org/consensus)上找到。该页面显示了在NEO区块链上注册的所有候选节点，并且候选人可以自己编辑其相应节点上的信息，例如_Website_ ，_Organization Summary_ 等。
 
-![](How-Voting-Works-In-NEO-Chinese/votemulti-EN.png)
+<img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/consensusSited1a-EN.png" width="755">
 
 _图片：页面上的共识节点列表。_
 
@@ -52,7 +52,7 @@ _图片：页面上的共识节点列表。_
 
 	3. 在Candidates字段中，输入要投票的候选人的_公钥_（在共识节点页面上可以找到）。您可以输入由换行符分隔的多个公钥。请注意，每行不能包含空格，如下图所示：
 
-![](How-Voting-Works-In-NEO-Chinese/consensusSited1a-EN.png)
+<img src="https://raw.githubusercontent.com/taomo-eo/docs/master/Becoming_Consensus_Node/img/votemulti-EN.png" width="725">
    
   _示例：给三名候选人每人100000000票_。
 
